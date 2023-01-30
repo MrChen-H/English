@@ -1,0 +1,226 @@
+一：含义
+	时：动词+发生的时间
+	态：动词的变化形式
+
+二：引例	
+	I eat out today.		我今天出去吃饭-> 发生在最近
+	I ate out yesterday. 		我昨天出去吃饭 ->发生在过去
+	I will eat out tommottow	我明天出去吃饭 ->发生在将来
+
+三：时态(考点为 时间状语 + 动词形式(考) )
+			
+	------------------------------------------------------------------------------------------------------------------
+	|          		|       一般态（do）	|  进行态(be doing)	| 完成态(have done)	 |       完成进行态	   |		
+	------------------------------------------------------------------------------------------------------------------
+	|	现在	|         do/does	|       be doing	|       have doen	 |have/has been doing|		
+	------------------------------------------------------------------------------------------------------------------
+	|	过去	|            did	|    was/were doing	|       had  done	 |	X	   |		
+	------------------------------------------------------------------------------------------------------------------
+	|	将来	|        will/shall do	|well/shall be doing |will/shall  have done|	X	   | 		
+	------------------------------------------------------------------------------------------------------------------
+	|            过去将来	|   woudl/should do	|	X	|	X	 |	X	   |
+	------------------------------------------------------------------------------------------------------------------
+	Tip:do即为动词，does即为动词+s(三单形式)
+
+一般现在时
+	定义：经常发生或者近一段时间发生的动作
+
+	动词形式:普通动词：do/does
+		be动词：am/is/are
+
+	时间状语：
+	today		今天	often		经常
+	usually		通常	always		总是
+	regularly		定期	frequently	频繁的
+	sometime		有时	seldom		很少	
+	Ps: 第一人称 am 第二人称 are 第三人称 is	单数名词 is 复数名词 are
+
+	*主将从现在
+		含义: 当 主句 为将来时，从句 需用一般现在时
+		从句: 连词连接的句子
+		
+		使用场景: 
+		时间状从:连词和时间有关系 	when 	as soon as
+		条件状从:连词和条件有关系	if	unless	on condition that 
+		
+		As soon as you turn up,others will seem mdeiocre
+		你一出场，别人就显得不过如此
+		
+	在句子描述的是一个客观事实，个人的性格、特征、能力
+	当谓语动词是 go come arrive start sail(航行) 等位移动词表示要发生的且安排好的事时需要用一般现在时
+	
+Ps: be(am，is，are)动词后如果+ 动词 必须把动词+ing
+
+
+一般过去式
+	形式:普通动词:	did
+	        be动词:	was/were
+
+	时间状语
+	yesterday		昨天		the day befor yesterday	前天
+	-ago		-之前		last-			-最后
+	in+过去时间	在过去时间
+	
+
+一般将来时
+	定义：将来某一时间发生的动作
+	形式：普通动词 will/shall do		Ps:will适用于任何情况shall只适用于第一人称
+	          be动词   will/shall be
+
+	时间状语
+	tomorrow	明天		the day after tomorrow 	后天
+	-later		-之后		next-			-接下来
+	in + 将来时间	在将来		in the following		接下来
+	soon		很快		in the future		在未来
+	Ps:in+段时间	这段时间之后(表将来)
+	
+	Tip：at in on  三者中  at+点时间(具体的时间点)精确到时分秒或更小
+			  on+日(具体的日子)精确到日
+			  in+年月(精确到年月)
+	
+
+一般过去将来时
+	定义：从过去说将来，主要用于间接引语中		Ps:我三年前就说过我2050年结婚
+	形式：普通动词 would/should do
+	          be动词 would/should be
+	时间状语(合成时态)
+	She said she     would go    abroad soon		said 为过去式soon表将来 所以要用一般过去将来时
+		
+
+
+	
+现在进行时
+	定义：现在，此刻发生的动作
+	形式：通式 be+doing
+	
+	时间状语
+	now 		现在		at moment 	此刻
+	at+点时间		在...		*look		看(此刻看)
+	*listen		看(此刻看)	
+	Ps:always constantly continually + 现在进行时  表示人说话的某种感情色彩	e.g. She is constantly making mistakes 
+									       她总是不断的犯错(责备语气)
+
+过去进行时
+	定义：过去某个具体的时刻发生的动作
+	形式：was/were + doing (was用于第一人称)
+	时间状语
+	(at) this time yesterday	昨天的这个时候
+	(at) this time+时间
+	
+
+将来进行时
+	定义：将来某个具体时刻发生的动作
+	形式：will/shall +be doing
+	时间状语：具体时刻+将来时间   	eg. （at）this 3 days later
+	
+
+Ps：at+具体时刻：		用进行态	
+       at+具体时刻+过去：	过去进行		注意：at last minute(上一分钟)		用一般过去
+       at+具体时刻+将来：	将来进行		          at next minute(下一分钟)	用一般将来
+
+
+
+完成态
+	定义：截至到某一时刻之前的动作已经完成，并以动作结束的时间来命名  		eg:动作从过去开始现在完成就叫现在完成时
+	通式：have done
+
+现在完成时
+	定义：发生在过去影响持续到现在	Ps:有三个时间点  开始  持续  结束
+	动词形式：have/has done
+
+	时间状语
+	结束时间	：by now/till now/up now,	目前为止
+		   so far,recently，		目前
+		   already			(已经，肯定语气，放在have 和done之间)，
+		   yet			(已经，用于否定(意为 还)、疑问语气，位于句尾)
+
+	起始时间：
+		since									自从
+		Ps:since +句子								时态要用过去式
+		in/over/during the past/last(*翻译为过去的) + 段时间				意为在过去的一段时间里
+		eg: During the past few years,great changes have taken place in my hometown 		过去几年里我的家乡发生了巨大的变化
+
+		注意:for  + 段时间	动词要用连续性动词
+
+		动词变连续性动词
+		die 	——	dead（形容词性）	—— 	be dead（连续性动词）
+		come	——	here		——	be here
+		leave 	——	be away from
+		join	——	be a member of
+		buy	——	have
+		marry	——	be married
+		
+		eg:He has been dead for 3 years	他已经死了三年了（因为have/has + done所以be要用been）
+		
+		短语
+		have been to	去过
+		have gone to	去了
+		
+		补充：It is have/has +一段时间+since+主语+did	自从...以来已经...久了
+		
+		          This is the 最高级 +n+that+现在完成时
+		          eg:This is the most beautiful girl that I have seen	这是我见过最美丽的女孩
+		
+
+
+过去完成时
+	定义：发生在过去的过去，截至到过去结束的动作
+	动词形式：had done 
+	
+	时间状语
+		截止时间		by+过去时间
+		起始时间		before  after
+	
+
+	Befor + 主语  +  did,主语 +had done				在...之前就....
+	eg:Befor she got married ,she had bought an apartment 		在结婚之前她就买了房子
+
+	After + had done,主语 + did					在...之后才...
+	eg:After she had bought an apartment,she got married		她在买了房子后才结婚
+
+	持续时间  for + 段时间 + 过去时间
+	eg：By 2013 the New Oriental had been fanded for 20 years		在2013 年新东方已经建成20年了
+
+	补充：表示愿望，打算一类词例如 hope expect mean intend want suppose 常用于过去完成时表示过去没完成的愿望/打算
+	eg:The fulfilled the task than early they had expected		任务比我们计划的跟早完成
+
+	
+将来完成时
+	定义：(过去，现在，将来)发生的事对将来的影响
+
+	形式：will/shall have done
+
+	时间状语
+		截止时间：by+将来时间
+		持续时间：for + 段时间 + 将来时间
+
+	eg：By this time of next year ,all of you will have become collage students		明年的这个时间你和所有人都会成为大学生
+	Tip：become 的过去分词为 become
+
+
+现在完成进行时
+	定义：过去的动作持续到现在，并会一直持续下去译为：一直在做
+	
+	形式：have/has been doing
+
+时间状语：同现在完成时，根据语境来判断是用现在完成时还是现在完成进行时 现在完成时：动作在现在结束	 现在完成进行时：动作持续到现在还没有结束
+
+eg:He has been waiting his girlfriend for 3 hours,and he still stands there			他已经等了他的女朋友三个小时，仍站在这里
+
+
+完成态总结：
+		
+1，凡是看到for + 段时间 就用完成态
+	
+	for + 段时间 +过去时间	过去完成时
+	for + 段时间 +将来时间	将来完成时
+eg：By next month Jessica will have been away from home for one year			下个月Jessica 将会离开家一年时间
+
+2，By + 什么时间 就用 什么完成时
+
+3，By the time	直到...时
+
+	By the time + 主 + do/does ,主 + 将来完成时（will have done）		Tip：By the time 是一个时间连词所以前面是一个从句，所以后面主句遵循主将从现
+	By the time + 主 + did，主 + 过去完成时	（had done）
+
+4， It is / was the + 序数词 +time that + 主 +have /has done（前面用was后面则用 had done）		这是 ... 第...次做...

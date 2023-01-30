@@ -1,0 +1,10 @@
+虚拟语气
+含义：假的，不真实的	用动词的形式来表示假的事情（主观愿望，不能实现）
+
+分类
+	一.  幻想虚拟(if，wish)
+	1.   if的虚拟		从句+主句	（包含if的为从句(条件状语从句)）
+	
+	2.   形式:现在		If+主语+did/were+其他，主语+would/could/should/might+do+其他	
+	             过去		If+主语+had done+其他，主语+would/could/should/might+have done+其他
+	             将来		If+主语+did/were/were to do/should do+其他，主语+would/could/should/might+do+其他

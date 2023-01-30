@@ -1,0 +1,59 @@
+人称代词
+一：主格				
+	我 爱 ...(我即为主格)
+	第一人称:	I -> I		I->we（复数）
+	第二人称: you -> you	you->you
+
+	第三人称: he->he		they
+	               she->she
+	               it->it	
+		
+二：宾格
+	...爱我  (我即为宾格)
+	第一人称:	I -> me		I -> us (复数)
+	第二人称: you -> you	you->you(复数)
+
+	第三人称: he->him		them
+	              she->her
+	              it-> it
+
+三：形物代词
+	我的...		
+	第一人称:	I -> my		I -> our (复数)
+	第二人称:  you-> your	you->your(复数)
+	
+	第三人称: 	he->his		their
+		she->her
+		it->its
+
+四：名物代词
+	我的...
+	第一人称:	I -> mine		I -> ours(复数)   我们的
+	第二人称: you-> yours	you->your(复数)
+	
+	第三人称:  he->his		theirs
+		she->hers
+		it->its
+
+五：反身代词
+	我自己
+	第一人称: I -> myself	ourselves(复数) 我们自己
+	第二人称: you->yourself	yourselves(复数)你们自己
+	
+	第三人称:	he->himself	themselves
+		she->herself
+		it->itself
+
+Ps:形物代词+名词==名物代词
+
+
+六：指示代词
+	单数			复数			含义
+
+	this			these			这是
+	that			those			那是
+	such			NULL			这样，这种，这么(上文提到的这样的人或物)
+	same			NULL			相同的(上文提到的相同的人或物)
+	it 			NULL			未知的人，天气，时间，距离
+	
+
